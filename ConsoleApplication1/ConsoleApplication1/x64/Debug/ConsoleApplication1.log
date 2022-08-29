@@ -1,0 +1,5 @@
+﻿  supermarket.cpp
+C:\Users\Cripet\source\repos\ConsoleApplication1\ConsoleApplication1\supermarket.cpp(620,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cripet\source\repos\ConsoleApplication1\ConsoleApplication1\supermarket.cpp(1033,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cripet\source\repos\ConsoleApplication1\ConsoleApplication1\supermarket.cpp(1777,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\Cripet\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
